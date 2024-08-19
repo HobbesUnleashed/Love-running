@@ -103,6 +103,7 @@ main {
     background-color: lightblue;
     /* Make main take up surplus space and push down footer */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* Footer */
