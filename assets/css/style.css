@@ -25,6 +25,12 @@ h1, h2, h3 {
     color: #252525;
 }
 
+/* Utility class for hiding elements from user, but not search engines */
+
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
